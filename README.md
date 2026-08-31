@@ -2,7 +2,7 @@
 
 A safety gate for ROS 2 CI/CD. Blocks or reports on pull requests against a spec, so unsafe robotics code doesn't merge quietly.
 
-Everything below runs on the same instinct: catch what's actually happening, whether that's a system, a dataset, or an MCP call, before it causes damage nobody can trace back.
+The repos below run on the same instinct: catch what's actually happening, whether that's a system, a dataset, or an MCP call, before it causes damage nobody can trace back.
 
 <!-- LATEST:START -->
 ```
