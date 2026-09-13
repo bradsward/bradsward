@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-4571368  docs: mark CLI examples as target interface, show what works now  (mekiki)
+dd0e6d2  docs: design action-state consistency (M3)  (mekiki)
 ```
 <!-- LATEST:END -->
 
