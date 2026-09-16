@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-f30c0de  feat: add action-state consistency residual/tolerance check  (mekiki)
+f2b7a91  feat: reconstruct real gripper/joint state, verify M3 against real data  (mekiki)
 ```
 <!-- LATEST:END -->
 
