@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-f2b7a91  feat: reconstruct real gripper/joint state, verify M3 against real data  (mekiki)
+92a0c8a  Document the awesome-mcp-devtools merge  (greenlight)
 ```
 <!-- LATEST:END -->
 
