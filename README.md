@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-1c3a8ab  feat: idle-time analysis with declared per-channel motion thresholds  (mekiki)
+b881409  Add greenlight wrap: read-only config helper for real MCP setups  (greenlight)
 ```
 <!-- LATEST:END -->
 
