@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-b881409  Add greenlight wrap: read-only config helper for real MCP setups  (greenlight)
+99e333d  Fix test_serve.py's CI-only failure from mcp SDK version drift  (greenlight)
 ```
 <!-- LATEST:END -->
 
