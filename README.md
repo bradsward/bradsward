@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-99e333d  Fix test_serve.py's CI-only failure from mcp SDK version drift  (greenlight)
+6dff3d9  Fix crash on a truncated session log line  (greenlight)
 ```
 <!-- LATEST:END -->
 
