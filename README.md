@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-6dff3d9  Fix crash on a truncated session log line  (greenlight)
+f8df321  Test the declared Python range in CI, not just 3.12  (greenlight)
 ```
 <!-- LATEST:END -->
 
