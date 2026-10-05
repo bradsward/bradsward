@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-f8df321  Test the declared Python range in CI, not just 3.12  (greenlight)
+a7be239  0.5.0: fix log location and stdin EOF, add greenlight check, uvx alias  (greenlight)
 ```
 <!-- LATEST:END -->
 
