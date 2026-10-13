@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-a7be239  0.5.0: fix log location and stdin EOF, add greenlight check, uvx alias  (greenlight)
+2cdd009  Create session logs owner-only  (greenlight)
 ```
 <!-- LATEST:END -->
 
