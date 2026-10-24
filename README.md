@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-2cdd009  Create session logs owner-only  (greenlight)
+4145844  Opt-in payload capture, redaction, and demo/PyPI README fixes  (greenlight)
 ```
 <!-- LATEST:END -->
 
