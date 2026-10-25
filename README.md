@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-4145844  Opt-in payload capture, redaction, and demo/PyPI README fixes  (greenlight)
+43c9276  Add signing-key input, fix README secret name, document what gets audited (#21)  (saykai-action)
 ```
 <!-- LATEST:END -->
 
