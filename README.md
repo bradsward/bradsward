@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-43c9276  Add signing-key input, fix README secret name, document what gets audited (#21)  (saykai-action)
+73a26f8  Add outputs and artifact-name, never lose evidence silently (#22)  (saykai-action)
 ```
 <!-- LATEST:END -->
 
