@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-73a26f8  Add outputs and artifact-name, never lose evidence silently (#22)  (saykai-action)
+0f5ac09  Add a nav2-release input (#24)  (saykai-action)
 ```
 <!-- LATEST:END -->
 
