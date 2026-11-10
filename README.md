@@ -7,7 +7,7 @@ The repos below run on the same instinct: catch what's actually happening, wheth
 <!-- LATEST:START -->
 ```
 $ git log -1 --oneline --all-repos
-0f5ac09  Add a nav2-release input (#24)  (saykai-action)
+a639cd7  Fill in the MIT license text (#25)  (saykai-action)
 ```
 <!-- LATEST:END -->
 
